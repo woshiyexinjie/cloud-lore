@@ -24,5 +24,6 @@
 		<module>eureka-lore</module>
 		<module>eureka-provider</module>
 		<module>eureka-consumer</module>
-	</modules>
+        <module>spring-feign</module>
+    </modules>
 </project>
