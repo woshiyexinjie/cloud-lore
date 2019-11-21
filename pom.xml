@@ -25,5 +25,6 @@
 		<module>eureka-provider</module>
 		<module>eureka-consumer</module>
         <module>spring-feign</module>
+        <module>webflux-gateway</module>
     </modules>
 </project>
